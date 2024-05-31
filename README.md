@@ -1,1 +1,1 @@
-# reya-cases
+# reya-cases for LP pool
